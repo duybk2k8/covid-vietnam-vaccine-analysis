@@ -1,0 +1,33 @@
+COVID-19 Vaccination Impact in Vietnam
+
+1. Overview
+This project analyzes COVID-19 case trends in Vietnam (2020–2022) using WHO data, 
+focusing on the impact of vaccination rollout.
+
+2. Tools
+- Excel (data cleaning)
+- Tableau (visualization)
+- GitHub (portfolio)
+
+3. Dashboard
+https://public.tableau.com/authoring/COVID-19CasesineachperiodofVaccination/Sheet1#1
+
+4. Files
+- `report.pdf` → Detailed report of analysis
+- `dashboard.png` → Screenshot of Tableau dashboard
+- `data/` → Processed dataset (source: WHO)
+- `tableau/` → Tableau workbook (.twbx)
+
+5. Key Insights
+- Before vaccination (Jan 2020 – Mar 2021), daily new cases stayed low.
+- After July 2021 (public rollout), daily cases surged (Delta/Omicron waves).
+- Vaccination helped reduce severity (deaths per case) though infections rose.
+
+6. Learning Outcome
+This project demonstrates the full data analytics process:
+1. Ask – Define key question
+2. Prepare – Collect WHO dataset
+3. Process – Clean & filter Vietnam data
+4. Analyze – Compare pre/post vaccination trends
+5. Share – Build interactive Tableau dashboard
+6. Act – Derive insights on public health impact
